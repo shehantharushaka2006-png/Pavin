@@ -1,0 +1,6 @@
+{
+  "name": "Pavin FX",
+  "description": "Official store & gaming panel portal for Pavin FX. Get 31-day VIP panel access for 3500 LKR, sensitivity configs, and instant WhatsApp activation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
